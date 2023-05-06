@@ -56,3 +56,7 @@ Adaptive Moment Estimation with RMSprop (RMSprop): torch.optim.RMSprop()
 
 * train_one_epoch()
  train_one_epoch() function is used for training a model for one epoch. This is useful when you want more control over the training process, such as monitoring the loss at every batch or updating the learning rate after a certain number of iterations.
+ 
+ I still have to fine tune the model and train it with good amount of data again, but for now I have the below result to show you
+ ![alt text](./resources/result/1.png)
+ 
